@@ -3,7 +3,7 @@
 ### LEARING SOMETHING NEW EVERYDAY! 
 Greetings, tech adventurers! I'm **cupecups**, a passionate innovator diving deep into the realms of **Hackintosh**, **Jailbreaking**, **PLaystation** and **OpenCore**. My mission? To craft seamless, high-performance tools that bring macOS to life on any hardware. Buckle up and explore my world of code, creativity, and community! 💻✨
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cupecups&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cupecups&show_icons=true&theme=merko)
 
 ---
 
