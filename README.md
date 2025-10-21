@@ -50,6 +50,6 @@ Love what I do? Here's how you can get involved:
 create some stuf for fun, learn and action on my pinned:
 <div align="center">
   <a href="https://github.com/cupecups/LineageOS-UTM-HV">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cupecups&LineageOS-UTM-HV&theme=dracula&show_owner=true&border_radius=10" alt="LineageOS-UTM-HV"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cupecups&repo=LineageOS-UTM-HV&theme=dracula&show_owner=true&border_radius=10" alt="LineageOS-UTM-HV"/>
   </a>
 ---
