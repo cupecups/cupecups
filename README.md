@@ -39,6 +39,7 @@ create some stuf for fun, learn and action on my pinned:
   <a href="https://github.com/cupecups/900">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=cupecups&repo=900&theme=gruvbox&show_owner=true&border_radius=10" alt="PS4FREE 9.xx Jailbreak"/>
   </a>
+</div>
 
 ---
 
