@@ -3,7 +3,14 @@
 ### LEARING SOMETHING NEW EVERYDAY! 
 Greetings, tech adventurers! I'm **cupecups**, a passionate innovator diving deep into the realms of **Hackintosh**, **Jailbreaking**, **PLaystation** and **OpenCore**. My mission? To craft seamless, high-performance tools that bring macOS to life on any hardware. Buckle up and explore my world of code, creativity, and community! 💻✨
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cupecups&show_icons=true&theme=gruvbox)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cupecups&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide=contribs,issues&rank_icon=percentile&border_radius=10" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cupecups&layout=compact&theme=gruvbox&langs_count=10&hide=html,css&border_radius=10" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cupecups&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border_radius=10" alt="GitHub Streak"/>
+</div>
 
 ---
 
