@@ -20,6 +20,28 @@ My work revolves around **Hackintosh**, **Jailbreaking**, **PLaystation** and **
 
 ---
 
+## 🛠️ Featured Projects
+
+create some stuf for fun, learn and action on my pinned:
+<div align="center">
+  <a href="https://github.com/cupecups/LineageOS-UTM-HV">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cupecups&repo=LineageOS-UTM-HV&theme=gruvbox&show_owner=true&border_radius=10" alt="LineageOS-UTM-HV"/>
+  </a>
+
+  <a href="https://github.com/cupecups/Z390-Designare-OC">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cupecups&repo=Z390-Designare-OC&theme=gruvbox&show_owner=true&border_radius=10" alt="Z390-Designare-OC"/>
+  </a>
+
+  <a href="https://github.com/cupecups/binAMD-FX">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cupecups&repo=binAMD-FX&theme=gruvbox&show_owner=true&border_radius=10" alt="binAMD-FX"/>
+  </a>
+
+  <a href="https://github.com/cupecups/900">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cupecups&repo=900&theme=gruvbox&show_owner=true&border_radius=10" alt="PS4FREE 9.xx Jailbreak"/>
+  </a>
+
+---
+
 ## 💡 Contribute & Support
 
 Love what I do? Here's how you can get involved:
@@ -50,27 +72,4 @@ Love what I do? Here's how you can get involved:
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </div>
 
----
-
-## 🛠️ Featured Projects
-
-create some stuf for fun, learn and action on my pinned:
-<div align="center">
-  <a href="https://github.com/cupecups/LineageOS-UTM-HV">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cupecups&repo=LineageOS-UTM-HV&theme=gruvbox&show_owner=true&border_radius=10" alt="LineageOS-UTM-HV"/>
-  </a>
-
-  <a href="https://github.com/cupecups/Z390-Designare-OC">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cupecups&repo=Z390-Designare-OC&theme=gruvbox&show_owner=true&border_radius=10" alt="Z390-Designare-OC"/>
-  </a>
-
-  <a href="https://github.com/cupecups/binAMD-FX">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cupecups&repo=binAMD-FX&theme=gruvbox&show_owner=true&border_radius=10" alt="binAMD-FX"/>
-  </a>
-
-  <a href="https://github.com/cupecups/900">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cupecups&repo=900&theme=gruvbox&show_owner=true&border_radius=10" alt="PS4FREE 9.xx Jailbreak"/>
-  </a>
-
-  
 ---
