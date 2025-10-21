@@ -1,7 +1,7 @@
 # 🚀 Welcome to cupecups's GitHub Portal! 🚀
 
 ### LEARING SOMETHING NEW EVERYDAY! 
-Greetings, tech adventurers! I'm **cupecups**, a passionate innovator diving deep into the realms of **Hackintosh**, **Jailbreaking**, **PLaystation** and **OpenCore**. My mission? To craft seamless, high-performance tools that bring macOS to life on any hardware. Buckle up and explore my world of code, creativity, and community! 💻✨
+Greetings, tech adventurers! I'm **cupecups**, a passionate innovator diving deep into the realms of **Hackintosh**, **Jailbreaking**, **Playstation** and **OpenCore**. My main mission? To craft seamless, high-performance trick that bring macOS to life on any hardware event make something unlimited freedom all device and operating system . Buckle up and explore my world of code, creativity, and community! 💻✨
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cupecups&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide=contribs,issues&rank_icon=percentile&border_radius=10" alt="GitHub Stats"/>
@@ -16,7 +16,7 @@ Greetings, tech adventurers! I'm **cupecups**, a passionate innovator diving dee
 
 ## 📝 About My Work
 
-My work revolves around **Hackintosh**, **Jailbreaking**, **PLaystation** and **OpenCore**, creating some tricky how to run macOS on non-Apple hardware with unparalleled performance. Whether it's optimizing bootloaders or crafting utilities, I'm dedicated to open-source excellence and make it everything is fun and freedom.
+My work revolves around **Hackintosh**, **Jailbreaking**, **Playstation** and **OpenCore**, creating some tricky how to run macOS on non-Apple hardware with unparalleled performance. Whether it's optimizing bootloaders or crafting utilities, I'm dedicated to open-source excellence and make it everything is fun and freedom.
 
 ---
 
