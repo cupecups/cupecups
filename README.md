@@ -52,21 +52,6 @@ create some stuf for fun, learn and action on my pinned:
 
 ---
 
-## 💡 Contribute & Support
-
-Love what I do? Here's how you can get involved:
-
-- ⭐ Star my repositories to show your support!  
-- 🛠️ Contribute to my projects via pull requests or issue reports.  
-- 📢 Share my work with your community!  
-
-<div align="center">
-  <p><b>Let's hack the future together! 🚀😎</b></p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=20&duration=5000&pause=1000&color=00A1D6&center=true&vCenter=true&width=450&lines=Innovate+Relentlessly;Code+Without+Limits;Inspire+the+Community" alt="Typing SVG"/>
-</div>
-
----
-
 ## 🧰 My Tech Stack
 
 <div align="center">
@@ -80,6 +65,21 @@ Love what I do? Here's how you can get involved:
   <img src="https://img.shields.io/badge/EFI-800080?style=for-the-badge&logo=efi&logoColor=white" alt="EFI"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</div>
+
+---
+
+## 💡 Contribute & Support
+
+Love what I do? Here's how you can get involved:
+
+- ⭐ Star my repositories to show your support!  
+- 🛠️ Contribute to my projects via pull requests or issue reports.  
+- 📢 Share my work with your community!  
+
+<div align="center">
+  <p><b>Let's hack the future together! 🚀😎</b></p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=20&duration=5000&pause=1000&color=00A1D6&center=true&vCenter=true&width=450&lines=Innovate+Relentlessly;Code+Without+Limits;Inspire+the+Community" alt="Typing SVG"/>
 </div>
 
 ---
