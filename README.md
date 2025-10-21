@@ -44,8 +44,8 @@ create some stuf for fun, learn and action on my pinned:
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=cupecups&repo=SurfacePro7-OC&theme=gruvbox&show_owner=true&border_radius=10" alt="SurfacePro7-OC"/>
   </a>
 
-   <a href="https://github.com/cupecups/hackindonesian.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cupecups&repo=hackindonesian.github.io&theme=gruvbox&show_owner=true&border_radius=10" alt="All About Hackintosh"/>
+   <a href="https://github.com/cupecups/hackindonesian">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cupecups&repo=hackindonesian&theme=gruvbox&show_owner=true&border_radius=10" alt="All About Hackintosh"/>
   </a>
   
 </div>
