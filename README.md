@@ -9,7 +9,7 @@ Greetings, tech adventurers! I'm **cupecups**, a passionate innovator diving dee
 </div>
 
 <div align="center">
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=cupecups&theme=tokyonight"/>
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=cupecups&theme=highcontrast"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cupecups&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border_radius=10" alt="GitHub Streak"/>
 </div>
 
