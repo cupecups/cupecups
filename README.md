@@ -24,7 +24,7 @@ My work revolves around **Hackintosh**, **Jailbreaking**, **Playstation** and **
 create some stuf for fun, learn and action on my pinned:
 <div align="center">
   <a href="https://github.com/cupecups/LineageOS-UTM-HV">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cupecups&repo=LineageOS-UTM-HV&theme=gruvbox&show_owner=true&border_radius=10" alt="LineageOS-UTM-HV"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=cupecups&repo=LineageOS-UTM-HV&theme=gruvbox&show_owner=true&border_radius=10" alt="LineageOS-UTM-HV"/>
   </a>
 
   <a href="https://github.com/cupecups/Z390-Designare-OC">
