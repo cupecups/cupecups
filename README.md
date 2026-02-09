@@ -8,6 +8,9 @@ Greetings, tech adventurers! I'm **cupecups**, a passionate innovator diving dee
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cupecups&layout=compact&theme=gruvbox&langs_count=10&hide=html,css&border_radius=10" alt="Top Languages"/>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=cupecups&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border_radius=10" alt="GitHub Streak"/>
+</div>
 ---
 
 ## 📝 About My Work
