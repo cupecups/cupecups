@@ -26,27 +26,21 @@ create some stuf for fun, learn and action on my pinned:
   <a href="https://github.com/cupecups/LineageOS-UTM-HV">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=cupecups&repo=LineageOS-UTM-HV&theme=gruvbox&show_owner=true&border_radius=10" alt="LineageOS-UTM-HV"/>
   </a>
-
   <a href="https://github.com/cupecups/Z390-Designare-OC">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cupecups&repo=Z390-Designare-OC&theme=gruvbox&show_owner=true&border_radius=10" alt="Z390-Designare-OC"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=cupecups&repo=Z390-Designare-OC&theme=gruvbox&show_owner=true&border_radius=10" alt="Z390-Designare-OC"/>
   </a>
-
-  <a href="https://github.com/cupecups/binAMD-FX">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cupecups&repo=binAMD-FX&theme=gruvbox&show_owner=true&border_radius=10" alt="binAMD-FX"/>
+    <a href="https://github.com/cupecups/binAMD-FX">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=cupecups&repo=binAMD-FX&theme=gruvbox&show_owner=true&border_radius=10" alt="binAMD-FX"/>
   </a>
-
-  <a href="https://github.com/cupecups/900">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cupecups&repo=900&theme=gruvbox&show_owner=true&border_radius=10" alt="PS4FREE 9.xx Jailbreak"/>
+      <a href="https://github.com/cupecups/900">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=cupecups&repo=900&theme=gruvbox&show_owner=true&border_radius=10" alt="PS4FREE 9.xx Jailbreak"/>
   </a>
-
-   <a href="https://github.com/cupecups/SurfacePro7-OC">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cupecups&repo=SurfacePro7-OC&theme=gruvbox&show_owner=true&border_radius=10" alt="SurfacePro7-OC"/>
+      <a href="https://github.com/cupecups/SurfacePro7-OC">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=cupecups&repo=SurfacePro7-OC&theme=gruvbox&show_owner=true&border_radius=10" alt="SurfacePro7-OC"/>
   </a>
-
-   <a href="https://github.com/cupecups/hackindonesian">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cupecups&repo=hackindonesian&theme=gruvbox&show_owner=true&border_radius=10" alt="All About Hackintosh"/>
+        <a href="https://github.com/cupecups/hackindonesian">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=cupecups&repo=hackindonesian&theme=gruvbox&show_owner=true&border_radius=10" alt="All About Hackintosh"/>
   </a>
-  
 </div>
 
 ---
